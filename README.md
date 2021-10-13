@@ -1,0 +1,3 @@
+- Hi, I’m @ParadoxZM
+- I’m mostly here for 3DS homebrew/modding
+- I plan on learning how to develop my own mods/tools
